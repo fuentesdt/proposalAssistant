@@ -11,19 +11,18 @@
 ## Directory Structure
 /project-root
 ├── CLAUDE.md
+/project-root
+├── CLAUDE.md
 ├── /references          # Research papers and literature
 │   ├── /background
 │   ├── /preliminary-data
 │   └── /methods
-└── /grant-documents     # Main grant files
-    ├── /latex
-    │   ├── specific_aims.tex
-    │   ├── research_plan.tex
-    │   └── bibliography.bib
-    └── /word
-        ├── specific_aims.docx
-        ├── research_plan.docx
-        └── letters_of_support.docx
+└── /grant-documents
+    ├── main.docx                    # Combined Specific Aims + Research Plan
+    ├── /figures
+    └── /supplementary
+        ├── letters_of_support.docx
+        └── biosketches.docx
 
 ## Reference Material (`/references`)
 - Summarize or cite papers from this directory to support claims
@@ -31,7 +30,6 @@
 - Use `/methods` papers to support technical approach sections
 
 ## Grant Documents (`/grant-documents`)
-- LaTeX files are the source of truth; Word versions are for collaborator review
 - Maintain consistent terminology across all documents
 - Page/word limits to enforce:
   - Specific Aims: 1 page
