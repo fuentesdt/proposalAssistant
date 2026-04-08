@@ -17,6 +17,7 @@ Say: "Review the proposal in /inbox" or "Review [filename].docx"
 Analyze every proposal and manuscript against these ten lenses:
 
 ### 1. Significance
+- Does successful completion of the research project advance patient care?
 - Evaluate the importance of the proposed research in the context of current scientific challenges and opportunities, either for advancing knowledge within the field, or more broadly. Assess whether the application addresses an important gap in knowledge in the field, would solve a critical problem, or create a valuable conceptual or technical advance.
 - Evaluate the rationale for undertaking the study, the rigor of the scientific background for the work (e.g., prior literature and/or preliminary data) and whether the scientific background justifies the proposed study.
 
