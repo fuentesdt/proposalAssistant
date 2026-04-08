@@ -112,4 +112,8 @@ For EACH concern found:
 - Preserve all existing formatting and styles
 - If a passage triggers multiple categories, add one comment per
   category, each with its own track change
-- Maximum 20 comments per document — prioritize highest-impact issues
+- Maximum 30 comments per document — prioritize highest-impact issues
+- Page/word limits to enforce:
+  - Specific Aims: 1 page
+  - Research Strategy: 12 pages (R01) or [X pages]
+  - [Add other section limits here]
